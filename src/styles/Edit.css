@@ -1,0 +1,19 @@
+.edit_user{
+    height: 50px;
+    width: 90%;
+    padding-left: 10px;
+    border-radius: 5px;
+    border: .5px solid rgb(225, 223, 223);
+}
+.edit_user:focus{
+    outline: none;
+}
+.update_user{
+    padding:10px 15px;
+    font-weight: 700;
+    color: white;
+    background-color: rgb(24, 202, 27);
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+}

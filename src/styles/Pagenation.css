@@ -1,0 +1,31 @@
+.navigate__button{
+    padding:10px 13px;
+    font-weight: 700;
+    color: white;
+    background-color: rgb(26, 177, 183);
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+}
+.navigate__button_numbers{
+    padding:6px 15px;
+    font-weight: 700;
+    color: white;
+    color: black;
+    border-radius: 50%;
+    border:.2px solid #808080;
+    background-color: #d9d6d6;
+    margin:0px 5px;
+    cursor: pointer;
+}
+.navigate__button_numbers_Active{
+    padding:6px 15px;
+    font-weight: 700;
+    color: white;
+    color: rgb(255, 253, 253);
+    border-radius: 50%;
+    border:.2px solid gray;
+    background-color: #484848;
+    margin:0px 5px;
+    cursor: pointer;
+}
